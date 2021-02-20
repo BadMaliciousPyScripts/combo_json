@@ -15,11 +15,11 @@
         "Tier": 1
       },
       "Nunu": {
-        "Items": "HextechGunblade,Sunfire",
+        "Items": "HextechGunblade,SunfireCape",
         "Tier": 1
       },
       "Shyvana": {
-        "Items": "Runaans,HandOfJustice,Guinsoos",
+        "Items": "RunaansHurricane,HandOfJustice,GuinsoosRegeblade",
         "Tier": 3
       },
       "ChoGath": {
@@ -74,6 +74,191 @@
       "Samira": {
         "Items": "WarlordsBanner,GuardiansAngel,HandOfJustice",
         "Tier": 3
+      }
+    }
+  },
+  "Set3": {
+    "Name": "7 Mage, 3 Dragonsoul, 3 Elderwood",
+    "Champions": {
+      "Brand": {
+        "Items": "",
+        "Tier": 1
+      },
+      "TwistedFate": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Annie": {
+        "Items": "SunfireCape,TitansResolve,DragonsClaw",
+        "Tier": 3
+      },
+      "Braum": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Lulu": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Veigar": {
+        "Items": "HextechGunblade,BlueBuff",
+        "Tier": 1
+      },
+      "AurelionSol": {
+        "Items": "HextechGunblade,JeweledGauntlet,GuardiansAngel",
+        "Tier": 1
+      },
+      "Ornn": {
+        "Items": "",
+        "Tier": 1
+      }
+    }
+  },
+  "Set4": {
+    "Name": "4 Divine 4 Executioner",
+    "Champions": {
+      "Jax": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Irelia": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Kindred": {
+        "Items": "ZekesHerald,ChaliceOfPower,JeweledGauntlet",
+        "Tier": 3
+      },
+      "Yuumi": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Kayle": {
+        "Items": "RapidFirecannon,GuinsoosRegeblade,Quicksilver",
+        "Tier": 3
+      },
+      "Shen": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Xayah": {
+        "Items": "",
+        "Tier": 1
+      },
+      "LeeSin": {
+        "Items": "BlueBuff,SunfireCape",
+        "Tier": 1
+      }
+    }
+  },
+  "Set5": {
+    "Name": "4 Divine 4 Executioner 3 Adept",
+    "Champions": {
+      "Jax": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Irelia": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Kindred": {
+        "Items": "ZekesHerald,ChaliceOfPower,LocketOfTheIronSolari",
+        "Tier": 3
+      },
+      "Yuumi": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Kayle": {
+        "Items": "RapidFirecannon,GuinsoosRegeblade,Quicksilver",
+        "Tier": 3
+      },
+      "Shen": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Xayah": {
+        "Items": "",
+        "Tier": 1
+      },
+      "LeeSin": {
+        "Items": "BlueBuff,SunfireCape",
+        "Tier": 1
+      },
+      "Yone": {
+        "Items": "",
+        "Tier": 1
+      }
+    }
+  },
+  "Set6": {
+    "Name": "9 Cultist 2 Sharpshooter 1 Daredevil",
+    "Champions": {
+      "Elise": {
+        "Items": "",
+        "Tier": 1
+      },
+      "TwistedFate": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Pyke": {
+        "Items": "ZekesHerald,ChaliceOfPower,LocketOfTheIronSolari",
+        "Tier": 1
+      },
+      "Vladimir": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Kalista": {
+        "Items": "RapidFirecannon,GuinsoosRegeblade,Quicksilver",
+        "Tier": 1
+      },
+      "Sivir": {
+        "Items": "ZekesHerald,HandOfJustice,RunaansHurricane",
+        "Tier": 3
+      },
+      "Aatrox": {
+        "Items": "SunfireCape,BrambleVest",
+        "Tier": 1
+      },
+      "Samira": {
+        "Items": "HandOfJustice,InfinityEdge,GuardiansAngel",
+        "Tier": 3
+      },
+      "Zilean": {
+        "Items": "",
+        "Tier": 1
+      }
+    }
+  },
+  "Set101": {
+    "Name": "Testing set(Originally default set!!)",
+    "Champions": {
+      "Fiora": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Diana": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Yasuo": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Garen": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Wukong": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Nidalee": {
+        "Items": "",
+        "Tier": 1
       }
     }
   }
