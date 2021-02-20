@@ -1,0 +1,80 @@
+{
+  "Set1": {
+    "Name": "8 Brawler, 3 Elderwood",
+    "Champions": {
+      "Maokai": {
+        "Items": "",
+        "Tier": 1
+      },
+      "TahmKench": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Vi":  {
+        "Items": "",
+        "Tier": 1
+      },
+      "Nunu": {
+        "Items": "HextechGunblade,Sunfire",
+        "Tier": 1
+      },
+      "Shyvana": {
+        "Items": "Runaans,HandOfJustice,Guinsoos",
+        "Tier": 3
+      },
+      "ChoGath": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Ornn": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Sett": {
+        "Items": "JeweledGauntlet,HandOfJustice,HextechGunblade",
+        "Tier": 3
+      }
+    }
+  },
+  "Set2": {
+    "Name": "9 Warlord, 3 Slayer",
+    "Champions": {
+      "Garen": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Nidalee": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Jarven": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Pyke": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Vi": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Katarina": {
+        "Items": "HextechGunblade,Quicksilver,TitansResolve",
+        "Tier": 3
+      },
+      "Tryndamere": {
+        "Items": "HandOfJustice,InfinityEdge",
+        "Tier": 1
+      },
+      "Azir": {
+        "Items": "",
+        "Tier": 1
+      },
+      "Samira": {
+        "Items": "WarlordsBanner,GuardiansAngel,HandOfJustice",
+        "Tier": 3
+      }
+    }
+  }
+}
